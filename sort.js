@@ -16,3 +16,5 @@ console.log("Hello. I am the teacher!");
 console.log("This is rebase-practice1");
 console.log("This is rebase-practice2");
 console.log("This is rebase-practice3");
+
+console.log("This is a bug. Please delete this line to fix the bug.");
