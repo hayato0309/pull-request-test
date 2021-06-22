@@ -13,3 +13,6 @@ console.log(number);
 
 console.log("Hello! I'm a student!");
 console.log("Hello. I am the teacher!");
+console.log("This is rebase-practice1");
+console.log("This is rebase-practice2");
+console.log("This is rebase-practice3");
