@@ -12,3 +12,4 @@ sortNumber(number);
 console.log(number);
 
 console.log("Hello! I'm a student!");
+console.log("Hello. I am the teacher!");
